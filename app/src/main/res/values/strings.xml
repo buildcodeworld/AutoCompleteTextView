@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="handsome">美女.........</string>
+    <string name="change">选择你喜欢的美女</string>
+    <string name="big">b美女</string>
+    <string name="middle">m美女</string>
+    <string name="small">s美女</string>
+    <string name="boom">b美女</string>
+
+    <string-array name="grilarray">
+        <item>b美女</item>
+        <item>m美女</item>
+        <item>s美女</item>
+        <item>b美女</item>
+    </string-array>
+
+    <string name="json">AutoCompleteTextViewWithJson</string>
+    <string name="changetea">选择你爱喝的茶</string>
+
+</resources>

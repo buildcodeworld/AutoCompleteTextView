@@ -1,0 +1,22 @@
+[
+    {
+        "product_id": "2001",
+        "product_name": "铁观音"
+    },
+    {
+        "product_id": "2002",
+        "product_name": "龙井"
+    },
+    {
+        "product_id": "2003",
+        "product_name": "qi门红茶"
+    },
+    {
+        "product_id": "2004",
+        "product_name": "普洱茶"
+    },
+    {
+        "product_id": "2005",
+        "product_name": "碧螺春"
+    }
+]
